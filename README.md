@@ -35,6 +35,10 @@ A modern, responsive web application for managing dental clinic operations built
   - Axios for HTTP requests
   - React Icons for UI icons
   - clsx for conditional class names
+    
+- **Backend**
+  - Strapi
+  - GraphQL
 
 - **Features**
   - Dark mode support
